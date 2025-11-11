@@ -33,6 +33,7 @@ Built purely for personal use, it focuses on simplicity, persistence, and elegan
 ---
 
 ## 📂 Project Structure
+
 UntitledGems/
 ├── UntitledGemsApp.swift      # App entry point
 ├── LibraryStore.swift         # Handles loading/saving songs
