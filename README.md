@@ -44,7 +44,7 @@ UntitledGems/
 ├── Song.swift                 # Model definition
 ├── SongArtworkView.swift      # Artwork display helper
 └── ThemeManager.swift         # Light/Dark theme handling
-
+```
 
 
 ---
