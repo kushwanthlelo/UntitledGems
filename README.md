@@ -33,4 +33,12 @@ Built purely for personal use, it focuses on simplicity, persistence, and elegan
 ---
 
 ## 📂 Project Structure
-
+UntitledGems/
+├── UntitledGemsApp.swift # App entry point
+├── LibraryStore.swift # Handles loading/saving songs
+├── LibraryView.swift # Displays all songs
+├── PlayerView.swift # Main player with controls
+├── EditSongView.swift # Edit screen for song metadata
+├── Song.swift # Model definition
+├── SongArtworkView.swift # Artwork display helper
+└── ThemeManager.swift # Light/Dark theme handling
